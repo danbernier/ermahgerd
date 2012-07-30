@@ -8,7 +8,9 @@ TRANSLATOR](http://ermahgerd.jmillerdesign.com) by J Miller Design.
 
 # Installation
 
-@gem install ermahgerd@
+```
+gem install ermahgerd
+```
 
 # Usage
 
